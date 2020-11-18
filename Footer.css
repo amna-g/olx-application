@@ -1,0 +1,14 @@
+.footer{
+    width: 900px;
+   line-height: 10px;
+    margin-top: 80px;
+    display: flex;
+}
+.footer_image{
+    width: 1000px;
+    height: 120PX;
+  
+}
+.text{
+  align-items: center;
+}

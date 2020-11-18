@@ -1,0 +1,19 @@
+
+.header{
+    background-color:transparent;
+
+display: flex;
+     width: 700px;
+   align-items: center;
+      box-sizing: border-box;
+
+
+}
+.logo{
+width: 70px;
+height:70px;
+
+}
+.Menu{
+      justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.banner{
+    width: 150%;
+    height: 100px;
+    margin-top: 20px;
+
+}
+
+.menu{
+    justify-content: space-between;
+}
+
+.home_image{
+    margin-top: 70px;
+}
